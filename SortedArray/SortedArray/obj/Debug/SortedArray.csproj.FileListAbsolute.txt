@@ -1,0 +1,6 @@
+c:\users\mpinelli\documents\visual studio 2012\Projects\SortedArray\SortedArray\bin\Debug\SortedArray.exe.config
+c:\users\mpinelli\documents\visual studio 2012\Projects\SortedArray\SortedArray\bin\Debug\SortedArray.exe
+c:\users\mpinelli\documents\visual studio 2012\Projects\SortedArray\SortedArray\bin\Debug\SortedArray.pdb
+c:\users\mpinelli\documents\visual studio 2012\Projects\SortedArray\SortedArray\obj\Debug\SortedArray.csprojResolveAssemblyReference.cache
+c:\users\mpinelli\documents\visual studio 2012\Projects\SortedArray\SortedArray\obj\Debug\SortedArray.exe
+c:\users\mpinelli\documents\visual studio 2012\Projects\SortedArray\SortedArray\obj\Debug\SortedArray.pdb

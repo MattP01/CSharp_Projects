@@ -1,0 +1,5 @@
+c:\users\mpinelli\documents\visual studio 2012\Projects\ReferencedClass\WorkerClass\bin\Debug\WorkerClass.dll
+c:\users\mpinelli\documents\visual studio 2012\Projects\ReferencedClass\WorkerClass\bin\Debug\WorkerClass.pdb
+c:\users\mpinelli\documents\visual studio 2012\Projects\ReferencedClass\WorkerClass\obj\Debug\WorkerClass.csprojResolveAssemblyReference.cache
+c:\users\mpinelli\documents\visual studio 2012\Projects\ReferencedClass\WorkerClass\obj\Debug\WorkerClass.dll
+c:\users\mpinelli\documents\visual studio 2012\Projects\ReferencedClass\WorkerClass\obj\Debug\WorkerClass.pdb

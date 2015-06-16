@@ -1,0 +1,6 @@
+c:\users\mpinelli\documents\visual studio 2012\Projects\UnsortedArray\UnsortedArray\bin\Debug\UnsortedArray.exe.config
+c:\users\mpinelli\documents\visual studio 2012\Projects\UnsortedArray\UnsortedArray\bin\Debug\UnsortedArray.exe
+c:\users\mpinelli\documents\visual studio 2012\Projects\UnsortedArray\UnsortedArray\bin\Debug\UnsortedArray.pdb
+c:\users\mpinelli\documents\visual studio 2012\Projects\UnsortedArray\UnsortedArray\obj\Debug\UnsortedArray.exe
+c:\users\mpinelli\documents\visual studio 2012\Projects\UnsortedArray\UnsortedArray\obj\Debug\UnsortedArray.pdb
+C:\Users\mpinelli\Documents\Visual Studio 2012\Projects\UnsortedArray\UnsortedArray\obj\Debug\UnsortedArray.csprojResolveAssemblyReference.cache
