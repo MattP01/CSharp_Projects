@@ -23,20 +23,20 @@ namespace Polymorphism
 
             FullTimeEmployee e2 = new FullTimeEmployee()
             {
-                FirstName = "Kevin",
-                LastName = "Klein"
+                FirstName = "Holly",
+                LastName = "Pinelli"
             };
 
             PartTimeEmployee e3 = new PartTimeEmployee()
             {
-                FirstName = "Holly",
-                LastName = "Walker"
+                FirstName = "Sam",
+                LastName = "Harris"
             };
 
             ContractEmployee e4 = new ContractEmployee()
             {
-                FirstName = "Wei",
-                LastName = "Yu"
+                FirstName = "Geralt",
+                LastName = "Rivia"
             };
 
             Console.WriteLine(e1.getFullName());
